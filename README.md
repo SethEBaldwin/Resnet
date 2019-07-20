@@ -1,3 +1,3 @@
 # Resnet
 
-Implementation of He et al's Deep Residual Learning for Image Recognition (https://arxiv.org/abs/1512.03385)
+Implementation of He et al.'s Deep Residual Learning for Image Recognition (https://arxiv.org/abs/1512.03385)
